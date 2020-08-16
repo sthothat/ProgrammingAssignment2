@@ -30,3 +30,4 @@ B1 <- makeCacheMatrix(B)
 cacheSolve(B1)
 
 cacheSolve(B1)
+ 
